@@ -25,7 +25,7 @@ h5, h6 {
 }
 
 .wp-block-navigation .has-child :where(.wp-block-navigation__submenu-container)>.wp-block-navigation-item>.wp-block-navigation-item__content {
-    color: #000;
+        color: #000 !important;
 }
 
 
