@@ -19,7 +19,7 @@ h5, h6 {
 
 
 .wp-block-social-links.is-style-pill-shape .wp-social-link {
-        background-color: rgba(0,0,0,0);
+        background-color: rgba(0,0,0,0) !important;
 }
 
 /* ---------------------------------- Formulario de Suscripcion ----- */
