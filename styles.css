@@ -24,7 +24,7 @@ h5, h6 {
 	padding-bottom: 0px;
 }
 
-.wp-elements-1eec41e99b97024abe7321cfd9f789f1 a {
+.wp-block-navigation :where(.wp-block-navigation__submenu-container) .wp-block-navigation-item__content {
     color: #000;
 }
 
