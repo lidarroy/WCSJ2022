@@ -18,9 +18,19 @@ h5, h6 {
 }
 
 
+/* ----------------------------------  Header ----- */
+
+.wp-site-blocks > .wp-block-template-part > .wp-block-group.has-background {
+	padding-bottom: 0px;
+}
+
+
+/* ---------------------------------- Footer ----- */
+
 .wp-block-social-links.is-style-pill-shape .wp-social-link {
         background-color: rgba(0,0,0,0) !important;
 }
+
 
 /* ---------------------------------- Formulario de Suscripcion ----- */
 
