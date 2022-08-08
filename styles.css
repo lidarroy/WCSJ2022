@@ -43,3 +43,12 @@ h5, h6 {
 #subscribe-email input {
     	font-family: 'Poppins', sans-serif;
 }
+
+
+
+
+/* ---------------------------------- Home ----- */
+.wp-block-image figcaption {
+    color: #000;
+    font-size: 16px;
+}
