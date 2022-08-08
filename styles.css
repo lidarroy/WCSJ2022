@@ -18,6 +18,10 @@ h5, h6 {
 }
 
 
+.wp-block-social-links.is-style-pill-shape .wp-social-link {
+        background-color: rgba(0,0,0,0);
+}
+
 /* ---------------------------------- Formulario de Suscripcion ----- */
 
 .wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline form button {
