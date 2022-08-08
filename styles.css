@@ -24,6 +24,10 @@ h5, h6 {
 	padding-bottom: 0px;
 }
 
+.wp-block-navigation a {
+    color: #000;
+}
+
 
 /* ---------------------------------- Footer ----- */
 
