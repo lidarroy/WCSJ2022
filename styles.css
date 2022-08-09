@@ -29,6 +29,39 @@ h5, h6 {
 }
 
 
+body:not(.home) 
+.wp-custom-header img {
+    content: url("https://2019.sanjose.wordcamp.org/files/2019/03/header-intern-temp.jpg") !important;
+}
+
+body:not(.home) .wp-custom-header:before {
+    content: url(https://2019.sanjose.wordcamp.org/files/2019/03/date-header-intern-temp.png);
+    position: absolute;
+    z-index: 1;
+    padding: 20px;
+    right: 10%;
+    top: 30%;
+    animation-duration: 3s;
+	  animation-iteration-count: infinite;
+    animation-name: floating;
+}
+
+@keyframes floating {
+	0% {
+    top: 30%;
+  }
+
+  50% {
+    top: 25%;
+  }
+	
+	100% {
+		top: 30%;
+	}
+}
+
+
+
 /* ---------------------------------- Footer ----- */
 
 .wp-block-social-links.is-style-pill-shape .wp-social-link {
