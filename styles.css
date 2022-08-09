@@ -29,12 +29,11 @@ h5, h6 {
 }
 
 
-body:not(.home) 
-.wp-custom-header img {
+body:not(.home) .wp-site-blocks header img {
     content: url("https://2019.sanjose.wordcamp.org/files/2019/03/header-intern-temp.jpg") !important;
 }
 
-body:not(.home) .wp-custom-header:before {
+body:not(.home) .wp-site-blocks header:before {
     content: url(https://2019.sanjose.wordcamp.org/files/2019/03/date-header-intern-temp.png);
     position: absolute;
     z-index: 1;
