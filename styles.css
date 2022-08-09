@@ -67,8 +67,9 @@ h5, h6 {
     max-width: 860px !important;
 }
 
-.home-news-section li:before {
-    content: url(https://2019.sanjose.wordcamp.org/files/2019/04/new-img-big.png);
+.home-news-box li:before {
+    content: url(https://sanjose.wordcamp.org/2022/files/2022/08/wcsj22-home-news-icon@2x.png);
+    width: 68px;
     display: inline-block;
     padding-right: 10px;
     float: left;
