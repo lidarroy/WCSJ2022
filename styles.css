@@ -66,3 +66,10 @@ h5, h6 {
 .home-ctas-box {
     max-width: 860px !important;
 }
+
+.home-news-section li:before {
+    content: url(https://2019.sanjose.wordcamp.org/files/2019/04/new-img-big.png);
+    display: inline-block;
+    padding-right: 10px;
+    float: left;
+}
