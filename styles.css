@@ -29,17 +29,15 @@ h5, h6 {
 }
 
 
-body:not(.home) .wp-site-blocks header img {
-    content: url("https://2019.sanjose.wordcamp.org/files/2019/03/header-intern-temp.jpg") !important;
-}
+/* ---------------------------------- Animación Cabecera - Internas ----- */
 
 body:not(.home) .wp-site-blocks header:before {
     content: url(https://2019.sanjose.wordcamp.org/files/2019/03/date-header-intern-temp.png);
     position: absolute;
     z-index: 1;
     padding: 20px;
-    right: 10%;
-    top: 30%;
+    right: 0%;
+    top: 5%;
     animation-duration: 3s;
 	  animation-iteration-count: infinite;
     animation-name: floating;
