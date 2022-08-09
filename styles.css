@@ -20,7 +20,7 @@ h5, h6 {
 
 /* ----------------------------------  Header ----- */
 
-.wp-site-blocks > .wp-block-template-part > .wp-block-group.has-background {
+.home .wp-site-blocks > .wp-block-template-part > .wp-block-group.has-background {
 	padding-bottom: 0px;
 }
 
