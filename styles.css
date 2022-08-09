@@ -38,7 +38,7 @@ body:not(.home) .wp-site-blocks header:before {
     padding-top: 20px;
     left: 5%;
     top: 0%;
-    animation-duration: 3s;
+    animation-duration: 5s;
 	  animation-iteration-count: infinite;
     animation-name: floating;
 }
