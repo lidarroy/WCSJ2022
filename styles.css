@@ -32,7 +32,7 @@ h5, h6 {
 /* ---------------------------------- Animación Cabecera - Internas ----- */
 
 body:not(.home) .wp-site-blocks header:before {
-    content: url(https://2019.sanjose.wordcamp.org/files/2019/03/date-header-intern-temp.png);
+    content: url(https://sanjose.wordcamp.org/2022/files/2022/08/wcsj22-intern-header-clouds.png);
     position: absolute;
     z-index: 1;
     padding: 20px;
@@ -45,15 +45,15 @@ body:not(.home) .wp-site-blocks header:before {
 
 @keyframes floating {
 	0% {
-    top: 30%;
+    top: 5%;
   }
 
-  50% {
-    top: 25%;
+  8% {
+    top: 3%;
   }
 	
-	100% {
-		top: 30%;
+	9% {
+		top: 5%;
 	}
 }
 
