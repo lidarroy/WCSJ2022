@@ -63,6 +63,6 @@ h5, h6 {
     padding: 10% 15%;
 }
 
-.home-ctas-box.wp-block-columns {
-    max-width: 860px;
+.home-ctas-box {
+    max-width: 860px !important;
 }
