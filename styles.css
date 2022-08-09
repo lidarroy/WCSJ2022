@@ -28,6 +28,10 @@ h5, h6 {
         color: #000 !important;
 }
 
+.wp-block-buttons { 
+	display: none;
+}
+
 
 /* ---------------------------------- Animación Cabecera - Internas ----- */
 
