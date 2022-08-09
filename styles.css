@@ -35,9 +35,9 @@ body:not(.home) .wp-site-blocks header:before {
     content: url(https://sanjose.wordcamp.org/2022/files/2022/08/wcsj22-intern-header-clouds.png);
     position: absolute;
     z-index: 1;
-    padding: 20px;
-    right: 0%;
-    top: 5%;
+    padding: 0px;
+    right: 5%;
+    top: 0%;
     animation-duration: 3s;
 	  animation-iteration-count: infinite;
     animation-name: floating;
