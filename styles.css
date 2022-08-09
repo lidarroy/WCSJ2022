@@ -62,3 +62,7 @@ h5, h6 {
     color: #fff;
     padding: 10% 15%;
 }
+
+.home-ctas-box {
+    max-width: 860px;
+}
