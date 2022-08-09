@@ -45,15 +45,15 @@ body:not(.home) .wp-site-blocks header:before {
 
 @keyframes floating {
 	0% {
-    top: 5%;
+    left: 5%;
   }
 
-  8% {
-    top: 3%;
+  20% {
+    left: 0%;
   }
 	
-	9% {
-		top: 5%;
+	30% {
+		left: 5%;
 	}
 }
 
