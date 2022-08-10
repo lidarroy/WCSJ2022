@@ -89,13 +89,12 @@ footer {
 
 
 
-
 /* ---------------------------------- Home ----- */
+
 .wp-block-image figcaption {
     color: #000;
     font-size: 16px;
 }
-
 
 .home-venue-box {
     color: #fff;
@@ -111,4 +110,22 @@ footer {
     display: inline-block;
     padding-right: 10px;
     float: left;
+}
+
+
+
+/* ---------------------------------- Tickets ----- */
+
+.tix-checkout-button {
+    font-family: 'Changa', sans-serif;
+    text-transform: uppercase;
+    font-weight: 800 !important;
+    background: #06a8d2;
+    font-size: 16px;
+    padding: 15px 23px 15px 23px;
+    margin-left: 10px;
+    border-radius: 0px;
+    border-width: 1px;
+    border-color: #06a8d2;
+    border-style: solid;
 }
