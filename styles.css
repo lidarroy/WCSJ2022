@@ -71,6 +71,9 @@ body .is-layout-flex > * {
         background-color: rgba(0,0,0,0) !important;
 }
 
+footer {
+    padding-top: 100px;
+}
 
 /* ---------------------------------- Formulario de Suscripcion ----- */
 
