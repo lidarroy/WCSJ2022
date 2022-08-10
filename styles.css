@@ -131,3 +131,7 @@ footer {
     border-color: #06a8d2;
     border-style: solid;
 }
+
+.tix-checkout-button {
+    padding-bottom: 50px;
+}
