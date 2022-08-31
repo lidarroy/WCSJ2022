@@ -169,13 +169,13 @@ span.tix-first {
 	font-size: 1.5em;
 	color: #08302f;
 	display: block;
-	font-weight: 900;
+	font-weight: 500;
 }
 
 span.tix-last {
 	color: #08302f;
 	display: block;
-	font-weight: 900;
+	font-weight: 500;
 	margin-top: -10px !important;
 	margin-bottom: 1rem;
 }
@@ -185,7 +185,7 @@ span.tix-last {
 	min-height: 175px;
 	padding: 1rem !important;
 	padding-bottom: 6rem !important;
-	background-color:#06a8d2 !important!
+	background-color:#06a8d2 !important;
 	/*background-image: url('https://2019.sanjose.wordcamp.org/files/2019/03/Wappu.png'), url('https://2019.sanjose.wordcamp.org/files/2019/04/tix-bg-attendees.jpg');*/
 	background-size: 37%, contain;
 	background-repeat: no-repeat;
