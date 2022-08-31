@@ -185,7 +185,7 @@ span.tix-last {
 	min-height: 175px;
 	padding: 1rem !important;
 	padding-bottom: 6rem !important;
-	background-image:  url('https://sanjose.wordcamp.org/2022/files/2022/08/Bagde-web.png');
+	background-image:  url('https://sanjose.wordcamp.org/2022/files/2022/08/Bagde-web1.png');
 	background-size: 100%, contain;
 	background-repeat: no-repeat;
 	box-shadow: 0 15px 35px rgba(50,50,90,.1), 0 5px 15px rgba(0,0,0,.07);
@@ -225,7 +225,7 @@ a.tix-field.tix-attendee-twitter, a.tix-field.tix-attendee-url {
 @media only screen and (max-width: 425px) {	
 	#tix-attendees .tix-columns-3 li {
 	    min-height: 300px;
-	    background-image: url('https://sanjose.wordcamp.org/2022/files/2022/08/Bagde-web.png');
+	    background-image: url('https://sanjose.wordcamp.org/2022/files/2022/08/Bagde-web1.png');
 	    background-size: 100%, contain;
 	    background-repeat: no-repeat;
 	    width: 100% !important;
