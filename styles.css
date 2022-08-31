@@ -186,7 +186,7 @@ span.tix-last {
 	padding: 1rem !important;
 	padding-bottom: 6rem !important;
 	background-image: /*url('https://sanjose.wordcamp.org/2022/files/2022/08/logowcsj22.png'),*/ url('https://sanjose.wordcamp.org/2022/files/2022/08/Bagde-web.png');
-	background-size: 37%, contain;
+	background-size: 100%, contain;
 	background-repeat: no-repeat;
 	box-shadow: 0 15px 35px rgba(50,50,90,.1), 0 5px 15px rgba(0,0,0,.07);
 	background-position: 50% 95%, top;
