@@ -228,7 +228,7 @@ a.tix-field.tix-attendee-twitter, a.tix-field.tix-attendee-url {
 	    margin: 0 auto;
 	}
 	#tix-attendees .tix-columns-3 li {
-	    min-height: 300px;
+	    min-height: 250px;
 	    background-image: url('https://sanjose.wordcamp.org/2022/files/2022/08/Bagde2.png');
 	    background-size: 100%, contain;
 	    background-repeat: no-repeat;
