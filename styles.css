@@ -135,8 +135,11 @@ footer {
 .tix-tickets-list {
     text-align: left;
     border-spacing: 0;
-	border: 2px solid black;
+
 }
 
+.tix-tickets-list li{
+     border: 2px solid black !important;
+}
 
 /* Lidi es PV *//
