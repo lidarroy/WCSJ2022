@@ -185,7 +185,7 @@ span.tix-last {
 	min-height: 175px;
 	padding: 1rem !important;
 	padding-bottom: 6rem !important;
-	background-image: url('https://sanjose.wordcamp.org/2022/files/2022/08/logowcsj22.png'), url('https://sanjose.wordcamp.org/2022/files/2022/08/Bagde-web.png');
+	background-image: /*url('https://sanjose.wordcamp.org/2022/files/2022/08/logowcsj22.png'),*/ url('https://sanjose.wordcamp.org/2022/files/2022/08/Bagde-web.png');
 	background-size: 37%, contain;
 	background-repeat: no-repeat;
 	box-shadow: 0 15px 35px rgba(50,50,90,.1), 0 5px 15px rgba(0,0,0,.07);
@@ -218,6 +218,18 @@ a.tix-field.tix-attendee-twitter, a.tix-field.tix-attendee-url {
 	background-color: transparent;
 	color: #0e8044;
 	text-transform: lowercase;
+}
+
+/* --------------------------------------------- Mediaqueries ----- */
+
+@media only screen and (max-width: 425px) {	
+	#tix-attendees .tix-columns-3 li {
+	    min-height: 405px;
+	    background-image: /*url('https://sanjose.wordcamp.org/2022/files/2022/08/logowcsj22.png'),*/ url('https://sanjose.wordcamp.org/2022/files/2022/08/Bagde-web.png');
+	    width: 100% !important;
+	}
+	
+	
 }
 
 /* Lidi es PV *//
