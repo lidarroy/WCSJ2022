@@ -230,6 +230,13 @@ a.tix-field.tix-attendee-twitter, a.tix-field.tix-attendee-url {
 	    background-repeat: no-repeat;
 	    width: 100% !important;
 	}
+	#tix-attendees .avatar {
+	width: 150px;
+	height: 150px;
+	display: block;
+	margin: 0 auto;
+	float: none;
+}
 	
 	
 }
