@@ -65,6 +65,12 @@ body .is-layout-flex > * {
     z-index: 999;
 }
 
+/* ---------------------------------- Post Blog ----- */
+
+.wp-block-post-featured-image img{
+	max-width:50% !important;
+}
+
 /* ---------------------------------- Footer ----- */
 
 .wp-block-social-links.is-style-pill-shape .wp-social-link {
