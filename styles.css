@@ -68,7 +68,7 @@ body .is-layout-flex > * {
 /* ---------------------------------- Post Blog ----- */
 
 .wp-block-post-featured-image img{
-	max-width:50% !important;
+	display: none !important;
 }
 
 /* ---------------------------------- Footer ----- */
