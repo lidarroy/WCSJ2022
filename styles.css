@@ -17,6 +17,16 @@ h5, h6 {
 	font-weight: 900;
 }
 
+button, html [type="button"], [type="reset"], [type="submit"]{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+button:hover, button:focus, input[type="button"]:hover, input[type="button"]:focus, input[type="submit"]:hover, input[type="submit"]:focus {
+    background: #6d4a4b;
+}
+
 
 /* ----------------------------------  Header ----- */
 
