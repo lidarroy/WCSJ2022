@@ -36,7 +36,8 @@ body.home .wp-custom-header:before {
     z-index: 1; 
     left: 5%;
     top: 25%;
-    max-width: 100%;
+    max-width: 90%;
+    overflow: hidden;
     animation-duration: 3s;
     animation-iteration-count: infinite;
     animation-name: floating-home;
@@ -83,6 +84,8 @@ body:not(.home) .wp-site-blocks header:before {
     padding-top: 20px;
     left: 5%;
     top: 0%;
+    max-width: 90%;
+    overflow: hidden;
     animation-duration: 5s;
     animation-iteration-count: infinite;
     animation-name: floating;
