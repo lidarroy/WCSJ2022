@@ -75,13 +75,19 @@ body .is-layout-flex > * {
     z-index: 999;
 }
 
+
 /* ---------------------------------- Post Blog ----- */
 
 .wp-block-post-featured-image img{
 	display: none !important;
 }
 
+
 /* ---------------------------------- Footer ----- */
+
+.sponsor-box .wp-block-post-featured-image img{
+	display: block !important;
+}
 
 .wp-block-social-links.is-style-pill-shape .wp-social-link {
         background-color: rgba(0,0,0,0) !important;
