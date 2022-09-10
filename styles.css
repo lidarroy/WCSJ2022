@@ -76,17 +76,11 @@ body .is-layout-flex > * {
 }
 
 
-/* ---------------------------------- Post Blog ----- */
-
-.wp-block-post-featured-image img{
-	display: none !important;
-}
-
-
 /* ---------------------------------- Footer ----- */
 
 .sponsor-box .wp-block-post-featured-image img {
 	display: block !important;
+	height: auto !important;
 }
 
 .sponsor-box .wp-block-post-title,
@@ -101,6 +95,13 @@ body .is-layout-flex > * {
 
 footer {
     padding-top: 100px;
+}
+
+
+/* ---------------------------------- Post Blog ----- */
+
+.wp-block-post-featured-image img{
+	display: none !important;
 }
 
 /* ---------------------------------- Formulario de Suscripcion ----- */
