@@ -85,8 +85,13 @@ body .is-layout-flex > * {
 
 /* ---------------------------------- Footer ----- */
 
-.sponsor-box .wp-block-post-featured-image img{
+.sponsor-box .wp-block-post-featured-image img {
 	display: block !important;
+}
+
+.sponsor-box .wp-block-post-title,
+.sponsor-box .wp-block-post-excerpt {
+	display: none !important;
 }
 
 .wp-block-social-links.is-style-pill-shape .wp-social-link {
