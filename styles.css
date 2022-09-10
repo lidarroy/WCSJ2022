@@ -30,6 +30,18 @@ button:hover, button:focus, input[type="button"]:hover, input[type="button"]:foc
 
 /* ----------------------------------  Header ----- */
 
+body.home .wp-custom-header:before {
+    content: url(https://2019.sanjose.wordcamp.org/files/2019/03/date-header-home-temp.png);
+    position: absolute;
+    z-index: 1; 
+    left: 50%;
+    top: 50%;
+	transform: translate(-50%, -50%);
+    animation-duration: 3s;
+	animation-iteration-count: infinite;
+    animation-name: floating-home;
+}
+
 .home .wp-site-blocks > .wp-block-template-part > .wp-block-group.has-background {
 	padding-bottom: 0px;
 }
