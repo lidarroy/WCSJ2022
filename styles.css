@@ -90,7 +90,8 @@ body .is-layout-flex > * {
 }
 
 .sponsor-box .wp-block-post-title,
-.sponsor-box .wp-block-post-excerpt {
+.sponsor-box .wp-block-post-excerpt,
+.sponsor-box .wp-block-post-date{
 	display: none !important;
 }
 
