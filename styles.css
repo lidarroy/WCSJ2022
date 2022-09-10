@@ -81,6 +81,8 @@ body .is-layout-flex > * {
 .sponsor-box .wp-block-post-featured-image img {
 	display: block !important;
 	height: 100px !important;
+	max-width: 300px;
+    	margin: 0 auto;
 }
 
 .sponsor-box .wp-block-post-title,
