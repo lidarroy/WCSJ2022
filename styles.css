@@ -80,7 +80,7 @@ body .is-layout-flex > * {
 
 .sponsor-box .wp-block-post-featured-image img {
 	display: block !important;
-	height: auto !important;
+	height: 100px !important;
 }
 
 .sponsor-box .wp-block-post-title,
