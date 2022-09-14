@@ -135,9 +135,24 @@ footer {
 }
 
 .logopyme img{
-	max-width: 50% !important;
+     max-width: 50% !important;
 }
 
+.logomalinche img{
+    max-width: 60% !important;
+}
+
+.logocortes img{
+    max-width: 70% !important;
+}
+
+.logoporo img {
+    max-width: 80% !important;
+}
+
+.logoguarumo img {
+   max-width: 100% !important;
+}
 
 /* ---------------------------------- Post Blog ----- */
 
