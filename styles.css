@@ -134,6 +134,10 @@ footer {
     padding-top: 100px;
 }
 
+.logopyme img{
+	max-width: 25% !important;
+}
+
 
 /* ---------------------------------- Post Blog ----- */
 
