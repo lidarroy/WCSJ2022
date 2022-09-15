@@ -171,6 +171,10 @@ footer {
 	display: none !important;
 }
 
+.wp-block-post-title {
+	font-size: 25px !important;
+}
+
 /* ---------------------------------- Formulario de Suscripcion ----- */
 
 .wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline form button {
