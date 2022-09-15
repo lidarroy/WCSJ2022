@@ -76,6 +76,10 @@ body.home .wp-custom-header:before {
 
 .wp-elements-95bad5bcb08bd317929a0587c163c58d a {
   color: #000 !important;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500 !important;
+  font-size:18px !important;
+	
 }
 
 /* ---------------------------------- Animación Cabecera - Internas ----- */
