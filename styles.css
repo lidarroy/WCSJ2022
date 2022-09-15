@@ -66,11 +66,9 @@ body.home .wp-custom-header:before {
 }
 
 .wp-block-cover .wp-block-cover__image-background, .wp-block-cover video.wp-block-cover__video-background {
-    height: 100%;
+    height: 200%;
     top: -415px;
-    background-position: bottom center !important;
-    background-size: contain;
-    background-repeat: no-repeat;
+    
 }
 
 .wp-block-navigation .has-child :where(.wp-block-navigation__submenu-container)>.wp-block-navigation-item>.wp-block-navigation-item__content {
