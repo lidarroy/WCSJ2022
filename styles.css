@@ -35,8 +35,8 @@ body.home .wp-custom-header:before {
     position: absolute;
     z-index: 1; 
     left: 5%;
-    top: 20%;
-    max-width: 90%;
+    top: 12%;
+    max-width: 70%;
     overflow: hidden;
     animation-duration: 3s;
     animation-iteration-count: infinite;
