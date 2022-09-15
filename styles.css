@@ -66,7 +66,7 @@ body.home .wp-custom-header:before {
 }
 
 .wp-block-cover .wp-block-cover__image-background, .wp-block-cover video.wp-block-cover__video-background {
-    height: 200%;
+    height: 100%;
     top: -415px;
 }
 
