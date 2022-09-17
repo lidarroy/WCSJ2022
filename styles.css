@@ -323,6 +323,11 @@ a.tix-field.tix-attendee-twitter, a.tix-field.tix-attendee-url {
 	color: #0e8044;
 	text-transform: lowercase;
 }
+/* --------------------------------------------- Charlas y Ponentes ----- */
+
+.sft-feedback-link{
+   display:none !important;
+}
 
 /* --------------------------------------------- Mediaqueries ----- */
 
