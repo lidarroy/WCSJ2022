@@ -329,6 +329,10 @@ a.tix-field.tix-attendee-twitter, a.tix-field.tix-attendee-url {
    display:none !important;
 }
 
+.is-layout-flow.wp-container-11.wp-block-group{
+   display:none !important;
+}
+
 /* --------------------------------------------- Mediaqueries ----- */
 
 @media only screen and (max-width: 425px) {	
