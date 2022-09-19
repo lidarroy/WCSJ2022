@@ -184,8 +184,15 @@ footer {
 /* --------------------------------------------- Programa ----- */
 
 .botonprograma{
-	background: #6d4a4b !important;
-	padding:10px;
+	background: #97b224 !important;
+	padding:5px;
+	
+}
+
+.botonprograma:hover{
+	background: #97b224 !important;
+	padding:5px;
+	
 }
 
 h2.wordcamp-schedule__date  {
