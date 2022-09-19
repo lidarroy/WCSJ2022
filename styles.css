@@ -192,17 +192,17 @@ h2.wordcamp-schedule__date  {
     text-align: center;
 }
 
-.wordcamp-schedule__session.has-slug-almuerzo {
+.wordcamp-schedule__session.has-slug-almuerzo.has-slug-almuerzo-2 {
     background-color: #97b224 !important;
     text-align: center !important;
 }
 
-.wordcamp-schedule__session.has-slug-cafe {
+.wordcamp-schedule__session.has-slug-cafe.has-slug-cafe-2 {
     background-color: #97b224 !important;
     text-align: center !important;
 }
 
-.wordcamp-schedule__session.has-slug-fotografia-general{
+.wordcamp-schedule__session.has-slug-fotografia-general.has-slug-rifas-cierre-del-wcsj{
 	background-color: #a5a3a1 !important;
     	text-align: center !important;
 }
