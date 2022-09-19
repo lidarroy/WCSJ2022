@@ -193,13 +193,13 @@ h2.wordcamp-schedule__date  {
 }
 
 .wordcamp-schedule__session.has-slug-almuerzo {
-    background-color: #0e8044 !important;
+    background-color: #a5a3a1 !important;
     color: #fff;
     text-align: center;
 }
 
 .wordcamp-schedule__session.has-slug-cafe {
-    background-color: #08302f !important;
+    background-color: #a5a3a1 !important;
     color: #fff;
     text-align: center;
 }
