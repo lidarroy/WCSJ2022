@@ -187,6 +187,11 @@ h2.wordcamp-schedule__date  {
 	display:none !important;
 }
 
+.wordcamp-schedule__column-header{
+	background-color: #06a8d2;
+
+}
+
 .wcpt-schedule tr:nth-child(even){
     background-color: #f2f2f2;
 }
