@@ -203,6 +203,8 @@ h2.wordcamp-schedule__date  {
 }
 h4.wordcamp-schedule__session-title {
     text-align: center !important;
+     display: block !important;
+     justify-content: space-between;
 }
 
 .wordcamp-schedule__column-header{
