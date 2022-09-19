@@ -181,6 +181,28 @@ footer {
 	font-size: 35px !important;
 }
 
+/* --------------------------------------------- Programa ----- */
+
+
+
+.wcpt-schedule tr:nth-child(even){
+    background-color: #f2f2f2;
+}
+
+.wcpt-schedule thead {
+    background-color: #000;
+    color: #fff;
+}
+
+.wcpt-time,
+.wcpt-col-time {
+    text-align: center;
+}
+
+
+
+
+
 /* ---------------------------------- Formulario de Suscripcion ----- */
 
 .wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline form button {
