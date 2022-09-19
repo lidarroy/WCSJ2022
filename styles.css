@@ -205,8 +205,12 @@ h2.wordcamp-schedule__date  {
 .wordcamp-schedule__session.has-slug-fotografia-general{
 	background-color: #6d4a4b !important;
     	text-align: center !important;
-	color:#ffffff !important;
+	
 
+}
+
+h4.wordcamp-schedule__session.has-slug-fotografia-general{
+	color:#ffffff !important;
 }
 h4.wordcamp-schedule__session-title {
     text-align: center !important;
