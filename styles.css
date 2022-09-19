@@ -188,7 +188,7 @@ h2.wordcamp-schedule__date  {
 }
 
 .wordcamp-schedule__column-header{
-	background-color: #06a8d2;
+	background-color: #06a8d2 !important;
 
 }
 
