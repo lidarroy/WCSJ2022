@@ -194,15 +194,15 @@ h2.wordcamp-schedule__date  {
 
 .wordcamp-schedule__session.has-slug-almuerzo {
     background-color: #97b224 !important;
-    text-align: center;
+    text-align: center !important;
 }
 
 .wordcamp-schedule__session.has-slug-cafe {
     background-color: #97b224 !important;
-    text-align: center;
+    text-align: center !important;
 }
-a.wordcamp-schedule__session-title{
-    text-align: center;
+.wordcamp-schedule__session-title{
+    text-align: center !important;
 }
 
 .wordcamp-schedule__column-header{
