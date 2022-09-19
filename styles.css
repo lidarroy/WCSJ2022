@@ -201,7 +201,7 @@ h2.wordcamp-schedule__date  {
     background-color: #97b224 !important;
     text-align: center !important;
 }
-.wordcamp-schedule__session-title{
+.wordcamp-schedule__session-title a{
     text-align: center !important;
 }
 
