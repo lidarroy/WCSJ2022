@@ -192,6 +192,18 @@ h2.wordcamp-schedule__date  {
     text-align: center;
 }
 
+.almuerzo {
+    background-color: #0e8044 !important;
+    color: #fff;
+    text-align: center;
+}
+
+.caf-snacks {
+    background-color: #08302f !important;
+    color: #fff;
+    text-align: center;
+}
+
 .wordcamp-schedule__column-header{
 	background-color: #06a8d2 !important;
 
