@@ -220,6 +220,13 @@ h4.wordcamp-schedule__session-title {
 
 }
 
+span.wordcamp-schedule__column-header{
+	font-family: 'Changa', sans-serif !important;
+  	text-transform: uppercase;
+	font-weight: 400 !important;
+	font-size:18px !important;
+}
+
 .wcpt-schedule tr:nth-child(even){
     background-color: #f2f2f2;
 }
