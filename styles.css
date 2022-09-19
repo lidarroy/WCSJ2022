@@ -183,7 +183,7 @@ footer {
 
 /* --------------------------------------------- Programa ----- */
 
-.wordcamp-schedule__date h2 {
+h2.wordcamp-schedule__date  {
 	display:none !important;
 }
 
