@@ -203,19 +203,16 @@ h2.wordcamp-schedule__date  {
 }
 
 .wordcamp-schedule__session.has-slug-fotografia-general{
-	background-color: #6d4a4b !important;
+	background-color: #a5a3a1 !important;
     	text-align: center !important;
-	
-
 }
 
 h4.wordcamp-schedule__session.has-slug-fotografia-general{
 	color:#ffffff !important;
 }
 h4.wordcamp-schedule__session-title {
-    text-align: center !important;
-     display: block !important;
-     justify-content: space-between;
+   	text-align: center !important;
+	justify-content: space-between;
 }
 
 .wordcamp-schedule__column-header{
