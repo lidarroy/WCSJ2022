@@ -213,6 +213,9 @@ h4.wordcamp-schedule__session.has-slug-fotografia-general{
 h4.wordcamp-schedule__session-title {
    	text-align: center !important;
 	display: block !important;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 600 !important;
+	font-size:20px !important;
 }
 
 .wordcamp-schedule__column-header{
