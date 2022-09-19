@@ -337,7 +337,7 @@ a.tix-field.tix-attendee-twitter, a.tix-field.tix-attendee-url {
 
 /* ---------------------------------- Charlas Tracks ---------------------------------- */
 
-.wordcamp-block__item-title wordcamp-sessions__title h3{
+.wordcamp-block__item-title wordcamp-sessions__title a{
 	font-size: 25px !important;
 
 }
