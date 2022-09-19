@@ -169,6 +169,8 @@ footer {
    max-width: 100% !important;
 }
 
+
+
 /* ---------------------------------- Post Blog ----- */
 
 .wp-block-post-featured-image img{
@@ -176,7 +178,7 @@ footer {
 }
 
 .wp-block-post-title {
-	font-size: 25px !important;
+	font-size: 35px !important;
 }
 
 /* ---------------------------------- Formulario de Suscripcion ----- */
@@ -323,7 +325,7 @@ a.tix-field.tix-attendee-twitter, a.tix-field.tix-attendee-url {
 	color: #0e8044;
 	text-transform: lowercase;
 }
-/* --------------------------------------------- Charlas y Ponentes ----- */
+/* --------------------------------------------- Sesiones Individuales y Ponentes ----- */
 
 .sft-feedback-link{
    display:none !important;
@@ -333,7 +335,15 @@ a.tix-field.tix-attendee-twitter, a.tix-field.tix-attendee-url {
    display:none !important;
 }
 
-/* --------------------------------------------- Mediaqueries ----- */
+/* ---------------------------------- Charlas Tracks ---------------------------------- */
+
+.wordcamp-block__item-title wordcamp-sessions__title h3{
+	font-size: 25px !important;
+
+}
+
+
+/* --------------------------------------------- Mediaqueries ---------------------------------- */
 
 @media only screen and (max-width: 425px) {	
 	body.page .site-content .wrap {
