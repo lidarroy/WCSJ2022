@@ -188,7 +188,7 @@ footer {
 .page-id-8 .wordcamp-image__avatar-container img{
 	max-width: 150px;
 	border-radius: 150px !important;
-	border: 2px solid #b8f4f1 !important;
+	border: 2px solid #7ad38c !important;
 }
 
 .wordcamp-block__item-title.wordcamp-speakers__title{
@@ -225,10 +225,11 @@ footer {
     	background-position: center;
 	background-size: 100%, contain;
 	background-repeat: no-repeat;
-	border: 3px solid #b8f4f1;
+	border: 3px solid #7ad38c;
+	border-radius: 15px;
 	padding: 180px 1em 1em;
 	margin-bottom: 2em;
-	box-shadow: 3px 3px 0 #b8f4f1;
+	box-shadow: 5px 5px 0 #b8f4f1;
 }
 
 .page-id-8 ul.wordcamp-block.wordcamp-post-list {
