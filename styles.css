@@ -195,8 +195,9 @@ footer {
 }
 
 .wordcamp-image__avatar-container img{
+	max-width: 60% !important;
 	border-radius: 150px !important;
-	border: 2px solid #97b224 !important;
+	border: 3px solid #f8b817 !important;
 }
 
 /* --------------------------------------------- Programa  ----------------------------------  */
