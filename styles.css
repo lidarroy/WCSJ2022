@@ -221,14 +221,14 @@ footer {
 
 
 .page-id-8 .wordcamp-post-list__post {
-	background: url(https://sanjose.wordcamp.org/2022/files/2022/09/fondoponentes.png);
+	background: url(https://sanjose.wordcamp.org/2022/files/2022/09/ponentesfondo.png);
     	background-position: center;
 	background-size: 100%, contain;
 	background-repeat: no-repeat;
 	border: 3px solid #b8f4f1;
 	padding: 180px 1em 1em;
 	margin-bottom: 2em;
-	box-shadow: 5px 5px 0 #b8f4f1;
+	box-shadow: 3px 3px 0 #b8f4f1;
 }
 
 .page-id-8 ul.wordcamp-block.wordcamp-post-list {
