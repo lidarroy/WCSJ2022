@@ -185,11 +185,21 @@ footer {
 
 
 
-.page-id-8 .avatar {
-	border-radius: 50%;
-	margin-top: 5px;
-	border: 4px solid #f8b817;
-	background-color: #f8b817;
+.wordcamp-image__avatar-container img{
+	max-width: 60% !important;
+	border-radius: 150px !important;
+	border: 3px solid #f8b817 !important;
+}
+
+.wordcamp-block__item-title.wordcamp-speakers__title{
+	
+	text-align: center !important;
+	display: block !important;
+	font-family: 'Poppins', sans-serif !important;
+	font-weight: 600 !important;
+	font-size:16px !important;
+	text-transform: none !important;
+
 }
 
 .page-id-8 .wordcamp-speaker.wordcamp-speakers__post {
@@ -205,9 +215,9 @@ footer {
 
 .page-id-8 .wordcamp-post-list__post {
 	border: 3px solid #fff;
-	padding: 115px 1em 1em;
+	padding: 50px 1em 1em;
 	margin-bottom: 2em;
-	box-shadow: 10px 10px 0 #fff;
+	box-shadow: 10px 10px 0 #06a8d2;
 }
 
 .page-id-8 ul.wordcamp-block.wordcamp-post-list {
