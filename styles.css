@@ -204,6 +204,7 @@ footer {
 
 .page-id-8 .wordcamp-speakers__session-link a{
 	right: 25% !important;
+	font-size:16px !important;
 	
 }
 
@@ -253,15 +254,11 @@ footer {
 }
 
 .page-id-8 .wordcamp-speakers__sessions-heading:before {
-	content: '📢';
+	content: '📢 Sesión';
 	padding-right: 5px;
 }
 
-.page-id-8 .slug-leandro-gomez .wordcamp-speakers__sessions-heading:before,
-.page-id-8 .slug-lidia-arroyo-v .wordcamp-speakers__sessions-heading:before,
-.page-id-8 .slug-mario-rocha .wordcamp-speakers__sessions-heading:before {
-	content: '📢 Sesiones';
-}
+
 
 
 .single-wcb_speaker .speaker-avatar img {
