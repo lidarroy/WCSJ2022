@@ -260,10 +260,6 @@ footer {
 	content: '📢 Sesiones';
 }
 
-.single-wcb_speaker .entry-content, .single-wcb_speaker .entry-content p, .single-wcb_speaker .speaker-avatar,
-.single-wcb_speaker .entry-footer, .single-wcb_speaker #comments {
-    max-width: 1240px!important;
-}
 
 .single-wcb_speaker .speaker-avatar img {
     border-radius: 50%;
