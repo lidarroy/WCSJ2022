@@ -221,6 +221,8 @@ footer {
 
 
 .page-id-8 .wordcamp-post-list__post {
+	background: url(https://sanjose.wordcamp.org/2022/files/2022/09/fondoponentes.png) no-repeat;
+    	background-position: center;
 	border: 3px solid #f8b817;
 	padding: 180px 1em 1em;
 	margin-bottom: 2em;
