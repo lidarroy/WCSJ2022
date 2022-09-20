@@ -223,7 +223,7 @@ footer {
 .page-id-8 .wordcamp-post-list__post {
 	background: url(https://sanjose.wordcamp.org/2022/files/2022/09/ponentesfondo.png);
     	background-position: center;
-	background-size: 100%, contain;
+	background-size: 100%, auto;
 	background-repeat: no-repeat;
 	border: 3px solid #7ad38c;
 	border-radius: 15px;
