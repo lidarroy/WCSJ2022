@@ -186,7 +186,7 @@ footer {
 
 
 .wordcamp-image__avatar-container img{
-	max-width: 60% !important;
+	max-width: 50% !important;
 	border-radius: 150px !important;
 	border: 3px solid #f8b817 !important;
 }
@@ -224,19 +224,9 @@ footer {
 	padding-left: 0;
 }
 
-.page-id-8 .wordcamp-speakers__title {
-    margin-bottom: 10px;
-}
 
-.page-id-8 .wordcamp-speakers__title a,
-.page-id-8 .wordcamp-speakers__title a:focus {
-    background: #eeaa46;
-    padding: 5px 20px;
-    color: #000;
-    text-transform: uppercase;
-    text-decoration: none;
-    font-size: 0.75em;
-}
+
+
 
 .page-id-8 .wordcamp-speakers__title a:hover {
     text-decoration: dotted;
@@ -244,7 +234,7 @@ footer {
 
 .page-id-8 .wordcamp-speakers__sessions {
 	display: inline-grid;
-	margin-top: 10px;
+	margin-top: 15px;
 	background: url(https://sanjose.wordcamp.org/2022/files/2022/09/arbol.png) no-repeat;
     background-position: right;
     width: 100%;
