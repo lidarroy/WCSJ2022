@@ -564,6 +564,11 @@ a.tix-field.tix-attendee-twitter, a.tix-field.tix-attendee-url {
 	float: none;
 }
 	
+	.page-id-8 .wordcamp-image__avatar-container img {
+  		max-width: 150px !important;
+  		
+}
+	
 	
 }
 
