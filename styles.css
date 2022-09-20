@@ -181,7 +181,20 @@ footer {
 	font-size: 35px !important;
 }
 
-/* --------------------------------------------- Programa ----- */
+/* ---------------------------------- Ponentes  ----------------------------------  */
+
+.wordcamp-block__item-title.wordcamp-speakers__title{
+	
+	text-align: center !important;
+	display: block !important;
+	font-family: 'Poppins', sans-serif !important;
+	font-weight: 600 !important;
+	font-size:16px !important;
+	text-transform: none !important;
+
+}
+
+/* --------------------------------------------- Programa  ----------------------------------  */
 
 .botonprograma{
 	background: #97b224 !important;
