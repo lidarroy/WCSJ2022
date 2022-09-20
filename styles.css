@@ -221,8 +221,7 @@ footer {
 .page-id-8 .wordcamp-speakers__sessions {
 	display: inline-grid;
 	margin-top: 18px;
-	background: url(https://sanjose.wordcamp.org/2022/files/2022/09/arbol.png) no-repeat;
-    background-position: right;
+	background-color: #f6f6f6;
     width: 100%;
 }
 
