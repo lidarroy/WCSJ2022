@@ -194,6 +194,11 @@ footer {
 
 }
 
+.wordcamp-image__avatar-container img{
+	border-radius: 150px !important;
+	border: 2px solid #97b224 !important;
+}
+
 /* --------------------------------------------- Programa  ----------------------------------  */
 
 .botonprograma{
