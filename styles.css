@@ -208,6 +208,12 @@ footer {
 	
 }
 
+.page-id-8 .wordcamp-speakers__session-info {
+  display: block;
+  font-size: .775em;
+  font-style: italic;
+}
+
 .page-id-8 .wordcamp-speaker.wordcamp-speakers__post {
 	position: relative;
 }
