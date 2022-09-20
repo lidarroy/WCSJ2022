@@ -271,10 +271,8 @@ footer {
     padding-left: 0;
 }
 
-.single-wcb_speaker #speaker-session-names:before {
-    content: 'Sesión:';
-    font-family: 'Poppins', sans-serif;
-    font-weight: 700;
+h2.speaker-sessions{
+	font-size:30px !important;
 }
 
 
