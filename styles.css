@@ -237,13 +237,7 @@ footer {
     text-decoration: dotted;
 }
 
-.page-id-8 .wordcamp-speakers__sessions {
-	display: inline-grid;
-	margin-top: 18px;
-	background: url(https://sanjose.wordcamp.org/2022/files/2022/09/arbol.png) no-repeat;
-    background-position: right;
-    width: 100%;
-}
+
 
 .wordcamp-block__item-content.wordcamp-speakers__content.is-excerpt p {
 	display: inline-grid;
