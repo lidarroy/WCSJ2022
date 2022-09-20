@@ -217,7 +217,7 @@ footer {
 	border: 3px solid #97b224;
 	padding: 180px 1em 1em;
 	margin-bottom: 2em;
-	box-shadow: 10px 10px 0 #adb297;
+	box-shadow: 5px 5px 0 #adb297;
 }
 
 .page-id-8 ul.wordcamp-block.wordcamp-post-list {
@@ -234,7 +234,7 @@ footer {
 
 .page-id-8 .wordcamp-speakers__sessions {
 	display: inline-grid;
-	margin-top: 15px;
+	margin-top: 18px;
 	background: url(https://sanjose.wordcamp.org/2022/files/2022/09/arbol.png) no-repeat;
     background-position: right;
     width: 100%;
